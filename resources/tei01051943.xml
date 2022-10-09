@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title type="full">
+					<title type="main">1-05-1943 WAAC</title>
+				</title>
+				<author/>
+			</titleStmt>
+			<editionStmt>
+				<edition>Edition created from new transcripts of this manuscript.</edition>
+				<respStmt xml:id="AU216679">
+					<resp>Initial upload of this work's facsimile images and metadata to FromThePage for editing</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="OU216679">
+					<resp>Administrator of the Ann Smith Letters transcription project on FromThePage</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="U218552">
+					<persName>BSG114</persName>
+					<resp>made 10 edits between <date type="first_edit" when="2020-04-14T14:36:30Z">April 14, 2020</date> and <date type="last_edit" when="2020-04-14T15:15:29Z">April 14, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U219694">
+					<persName>Deneced</persName>
+					<resp>made 5 edits between <date type="first_edit" when="2020-05-02T16:48:10Z">May 2, 2020</date> and <date type="last_edit" when="2020-05-02T17:09:04Z">May 2, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U216686">
+					<persName>KGWilliams</persName>
+					<resp>made 2 edits between <date type="first_edit" when="2020-01-20T23:18:07Z">January 20, 2020</date> and <date type="last_edit" when="2020-01-20T23:20:14Z">January 20, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U216679">
+					<persName>Josie Brumfield</persName>
+					<resp>made one edit on <date type="only_edit" when="2020-01-18T23:00:13Z">January 18, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U217894">
+					<persName>mimistach</persName>
+					<resp>made one edit on <date type="only_edit" when="2020-06-19T18:00:59Z">June 19, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U2">
+					<persName>Ben W. Brumfield</persName>
+					<resp>made one edit on <date type="only_edit" when="2020-01-19T02:45:44Z">January 19, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U720">
+					<persName>Guest User</persName>
+					<resp>made one edit on <date type="only_edit" when="2020-04-10T15:50:01Z">April 10, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U216075">
+					<persName>Amanda</persName>
+					<resp>made one edit on <date type="only_edit" when="2020-01-27T05:52:35Z">January 27, 2020</date>.</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Dynamic TEI export from FromThePage (version 21.1)</publisher>
+				<availability>
+					<p/>
+				</availability>
+				<ref>
+					<date when="2022-10-09T13:47:28+00:00">October 9, 2022</date>
+				</ref>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<collection>Ann Smith Letters</collection>
+					</msIdentifier>
+					<physDesc>
+						<p/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<listChange ordered="true">
+				<change target="#P705559" when="2020-06-19T18:00:59Z" who="U217894" xml:id="CHG24">Version 4 of page "3": Changes to page transcript.</change>
+				<change target="#P705558" when="2020-05-02T17:09:04Z" who="U219694" xml:id="CHG23">Version 6 of page "2": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-05-02T17:08:55Z" who="U219694" xml:id="CHG22">Version 12 of page "1": Changes to page transcript.</change>
+				<change target="#P705559" when="2020-05-02T16:53:30Z" who="U219694" xml:id="CHG21">Version 3 of page "3": Changes to page transcript.</change>
+				<change target="#P705558" when="2020-05-02T16:52:29Z" who="U219694" xml:id="CHG20">Version 5 of page "2": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-05-02T16:48:10Z" who="U219694" xml:id="CHG19">Version 11 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T15:15:29Z" who="U218552" xml:id="CHG18">Version 10 of page "1": Changes to page transcript.</change>
+				<change target="#P705559" when="2020-04-14T15:15:19Z" who="U218552" xml:id="CHG17">Version 2 of page "3": Changes to page transcript.</change>
+				<change target="#P705558" when="2020-04-14T15:13:29Z" who="U218552" xml:id="CHG16">Version 4 of page "2": Changes to page transcript.</change>
+				<change target="#P705558" when="2020-04-14T15:13:25Z" who="U218552" xml:id="CHG15">Version 3 of page "2": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T15:07:37Z" who="U218552" xml:id="CHG14">Version 9 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T15:06:29Z" who="U218552" xml:id="CHG13">Version 8 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T15:05:32Z" who="U218552" xml:id="CHG12">Version 7 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T14:45:45Z" who="U218552" xml:id="CHG11">Version 6 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T14:37:02Z" who="U218552" xml:id="CHG10">Version 5 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-14T14:36:30Z" who="U218552" xml:id="CHG9">Version 4 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-04-10T15:50:01Z" who="U720" xml:id="CHG8">Version 3 of page "1": Changes to page transcript.</change>
+				<change target="#P705559" when="2020-01-27T05:52:35Z" who="U216075" xml:id="CHG7">Version 1 of page "3": Changes to page transcript.</change>
+				<change target="#P705558" when="2020-01-20T23:20:14Z" who="U216686" xml:id="CHG6">Version 2 of page "2": Changes to page transcript.</change>
+				<change target="#P705558" when="2020-01-20T23:18:07Z" who="U216686" xml:id="CHG5">Version 1 of page "2": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-01-19T02:45:44Z" who="U2" xml:id="CHG4">Version 2 of page "1": Changes to page transcript.</change>
+				<change target="#P705557" when="2020-01-18T23:00:13Z" who="U216679" xml:id="CHG3">Version 1 of page "1": Changes to page transcript.</change>
+				<change target="#P705559" when="2020-01-18T20:12:30Z" who="U216679" xml:id="CHG2">Version 0 of page "3": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705558" when="2020-01-18T20:12:30Z" who="U216679" xml:id="CHG1">Version 0 of page "2": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705557" when="2020-01-18T20:12:29Z" who="U216679" xml:id="CHG0">Version 0 of page "1": Empty transcript -- probably initial upload of page facsimile.</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="letter">
+		<body>
+			<pb facs="https://fromthepage.com/image-service/705557/full/full/0/native.jpg #f000" n="Page 1" xml:id="F705557"/>
+			<div xml:id="OTP705557">
+				<fw type="pageNum">1</fw>
+				<opener/>
+				<dateline>[Right Side]<lb/> <name type="place">Fort Des Moines Iowa</name><lb/> Monday 6.15 pm.</dateline>
+				<p xml:id="OTP705557P2">[Left Side]<lb/> make it stamps. Then<lb/> back to barracks. Then<lb/> ate dinner at 1.30. Then <lb/> to infirmary at 2. Oh! me!<lb/> Oh! my! Same thing all<lb/> over again and three<lb/> shots on top of that. My<lb/> left arm is a little sore.<lb/> [But] guess I'll live. Will<lb/> [?] you again but wait<lb/> until I send you an address<lb/> tell all the gang. How are<lb/> my babies. I know I'll<lb/> miss them. I bunked with <lb/> <persName type="name">Mary Walker</persName> last night. We<lb/> had a lot of fun. We were<lb/> the only ones with a lower <lb/> birth (sic). Love to All Mother</p>
+				<p xml:id="OTP705557P3"/>
+				<signed/>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705558/full/full/0/native.jpg #f001" n="2" xml:id="F705558"/>
+			<div xml:id="OTP705558">
+				<fw type="pageNum">2</fw>
+				<p xml:id="OTP705558P0">at 9 am. Then w[ ] issued Soldiers<lb/> overcoats &amp; caps to keep us warm. Some [galoshes?]<lb/> 3 bath towels as big as sheets 3 hankerchiefs<lb/> tooth brush &amp; comb. Then went to ware house<lb/> for clothes. This is what I got.<lb/> 5 blouses 2 pr. anklets<lb/> 1 coat } 1 pr. sneakers<lb/> 1 skirt } uniform 2 pr. oxfords<lb/> 1 overcoat 2 pr. flannelette pajamas<lb/> 1 raincoat 1 corduroy robe<lb/> 2 pr. shoes 2 fatigue suits<lb/> 4 pr. cotton stockings 3 rayon jersey slips<lb/> 4 " rayon " 4 pr " " pants<lb/> 2 girdles 1 cap 1 tobaggan cap<lb/> 3 brassiers. I think this is all and I<lb/> sure could kick some one's but for having<lb/> us bring all these things. Show this list<lb/> to <persName type="name">Peggy </persName>&amp;<persName type="name"> Mildred.</persName> I didn't have to<lb/> have an alteration Perfect 16 long.<lb/> You can't write to me this week as<lb/> we are going to another co. Sat. If<lb/> you want to send [?] anything</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705559/full/full/0/native.jpg #f002" n="3" xml:id="F705559"/>
+			<div xml:id="OTP705559">
+				<fw type="pageNum">3</fw>
+				<p xml:id="OTP705559P0"><persName type="name">Ann Smith</persName><lb/> Co. 23. Reg 3<lb/> Barracks 80<lb/> <placeName type="place">Fort Des Moines Iowa</placeName></p>
+				<p xml:id="OTP705559P1"><persName type="name">Mr.</persName> and <persName type="name">Mrs. G.W. Carlstead</persName><lb/> <placeName type="place">1102 Dillon Drive<lb/> St. Louis</placeName> <lb/> <placeName>Mo</placeName>.</p>
+			</div>
+		</body>
+	</text>
+	<facsimile sameAs="https://fromthepage.com/iiif/21461/manifest" xml:id="images">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21461/canvas/705557">
+			<label>Page 1</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705557"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21461/canvas/705558">
+			<label>Page 2</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705558"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21461/canvas/705559">
+			<label>Page 3</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705559"/>
+		</surface>
+	</facsimile>
+	<standOff xml:id="people-and-places">
+		<listPerson>
+			<person>
+				<persName type="name">Mary Walker</persName>
+			</person>
+			<person>
+				<persName type="name">Mother</persName>
+				<persName>Ann Smith</persName>
+			</person>
+			<person>
+				<persName>Mildred</persName>
+			</person>
+			<person>
+				<persName>Peggy</persName>
+			</person>
+			<person>
+				<persName>Mr. G.W. Carlstead</persName>
+			</person>
+			<person>
+				<persName>Mrs. G.W. Carlstead</persName>
+			</person>
+		</listPerson>
+		<listPlace>
+			<place>
+				<placeName type="place">Fort Des Moines Iowa</placeName>
+			</place>
+			<place>
+				<placeName>St. Louis</placeName>
+			</place>
+			<place>
+				<placeName>Mo.</placeName>
+				<placeName>Missouri</placeName>
+			</place>
+		</listPlace>
+	</standOff>
+	<text xml:id="letter2">
+		<body>
+			<pb facs="https://fromthepage.com/image-service/705562/full/full/0/native.jpg" n="1" xml:id="F705562"/>
+			<div xml:id="OTP705562">
+				<fw type="pageNum">1</fw>
+				<p xml:id="OTP705562P0">that was taken the first day we were here. We had on enlisted men's coats on the way to the warehouse for uniforms. Please send full instructions as to how to use your camera. We don't seem to be able to get it focused right. So I haven't used the second roll of films. Well this week tells the story whether I get to come home and what I will be doing. We are all getting curious. I am still holding out for Motor Corps.</p>
+				<p xml:id="OTP705562P1">I talked to <persName type="name">Peggy</persName> and <persName type="name">Mildred </persName>the other night. I guess you have seen them and they told you if anything serious should happen at home and you would want me call <placeName type="place">Red Cross Headquarters </placeName>there and tell them the situation and request emergency furlough. Also have the Dr. call them.</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705563/full/full/0/native.jpg" n="2" xml:id="F705563"/>
+			<div xml:id="OTP705563">
+				<fw type="pageNum">2</fw>
+				<opener>
+					<dateline>Women's Army Auxiliary Corps<lb/> For <placeName type="place">Des Moines, Iowa</placeName></dateline>
+				</opener>
+				<p xml:id="OTP705563P1">For <placeName type="place">Des Moines, IA</placeName><lb/> Monday Noon</p>
+				<p xml:id="OTP705563P2">Dear Kids,</p>
+				<p xml:id="OTP705563P3">Received box yesterday and did I ever appreciate it. Those dates were really good. I was on special detail yesterday. Officers mess. They are trying to convert me into being a cook and I won't be converted for that is not what I want. It is a shame the way they waste food. Gallons of coffee, great chunks of butter and every thing else throwed out. For dinner yesterday: carrot sticks, soup, stuffed celery, roast duck and dressing, potatoes, asparagus, aspic salad, hot rolls and butter, coffee, milk, fresh strawberry shortcacke with ice cream.</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705564/full/full/0/native.jpg" n="3" xml:id="F705564"/>
+			<div xml:id="OTP705564">
+				<fw type="pageNum">3</fw>
+				<p xml:id="OTP705564P0">a college graduate.</p>
+				<p xml:id="OTP705564P1">Tues noon. Just finished eadting dinner.<lb/> 2pm. Just set down and was called out on the double to report to supply room for scarf. Now I am in class and just heard that we would be free from next Wed until Mon. So I would like to come home so if you want me send me some money this weekend so I can ask for my pass as soon as possible. I understand your own basic training will be finished then and we will know what corps we will be in and what we are going to do. I feel like a school kid going to school so much.</p>
+				<p xml:id="OTP705564P2">I have started and stopped so much since I started to write this letter. I don't know what I am doing. You have never sent me <persName type="name">Al</persName>'s address.</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705565/full/full/0/native.jpg" n="4" xml:id="F705565"/>
+			<div xml:id="OTP705565">
+				<fw type="pageNum">4</fw>
+				<p xml:id="OTP705565P0">Supper - Every kind of cold meat: ham, beef, pork, salami, etc; cheese; sliced tomatoes; olives; celery; carrot sticks; potato salad; cottage cheese; all kinds of cookies and ice cream.</p>
+				<p xml:id="OTP705565P1">Tues morn. Another line or two. The whole Co. had a party int he day room last night. They are picking 10 from each platoon and then they will be eliminated down to 10 from the Co for OCS this week. I can't make it for you have to have a high school education. I understand it is the first time that they have taken girls right from basic.</p>
+				<p xml:id="OTP705565P2">How are the boys and <persName type="name">G.W.</persName>? Take good care of them.</p>
+				<p xml:id="OTP705565P3">Is it very cold there? Seems as</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705566/full/full/0/native.jpg" n="5" xml:id="F705566"/>
+			<div xml:id="OTP705566">
+				<fw type="pageNum">5</fw>
+				<p xml:id="OTP705566P0">Has he been down lately? What did he have to say? <persName type="name">Peggy</persName> has never wrote to me and <persName type="name">Mildred</persName> owes me a letter.</p>
+				<p xml:id="OTP705566P1">Well guess I had better ring off for this time. Write often.</p>
+				<p xml:id="OTP705566P2">Love,<lb/> <persName type="name">Mother</persName></p>
+				<p xml:id="OTP705566P3">The fare will be $8.50 and I won't get Pullman's for we can't get rates if we do. It doesn't hurt me to set up and sleep.</p>
+				<p xml:id="OTP705566P4">M.</p>
+				<signed/>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705567/full/full/0/native.jpg" n="6" xml:id="F705567"/>
+			<div xml:id="OTP705567">
+				<fw type="pageNum">6</fw>
+				<p xml:id="OTP705567P0">3</p>
+				<p xml:id="OTP705567P1">Women's Army Auxiliary Corps<lb/> For <placeName type="place">Des Moines, Iowa</placeName></p>
+				<p xml:id="OTP705567P2">tho it can't get above zero. It <lb/> was 23 below zero yesterday a.m.<lb/> Are you working? If you see <persName type="name">Norma</persName>, <lb/> tell her I am still waiting for an<lb/> answer to my card. Had a nice<lb/> letter from <persName type="name">Jill</persName>. Also one from <lb/><persName type="name"> Mrs. [Stella?]</persName>. She said she was <lb/> going to send me some candy.<lb/> <persName type="name">Emma Smith </persName>treated me to a<lb/> supper in <placeName type="place">Des Moines</placeName> Sat. night. <lb/> She must have plenty of money. $1.85<lb/> a [piece?] for a steak. She was the<lb/> one that had the twin sister that<lb/> took the examination &amp; then backed<lb/> out. Her sister &amp; sweetheart are coming <lb/> up Sat.<lb/> My girl friend from <placeName type="place">Miss.</placeName> got <lb/> sent to Bakers &amp; Cooks Sat. She is<lb/></p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705568/full/full/0/native.jpg" n="7" xml:id="F705568"/>
+			<div xml:id="OTP705568">
+				<fw type="pageNum">7</fw>
+				<p xml:id="OTP705568P0">Aux. <persName>Ann Smith</persName><lb/> Co. 2. Reg. 3<lb/> First WAAC Training Center<lb/> Fort <placeName type="place">Des Moines. Iowa</placeName></p>
+				<p xml:id="OTP705568P1"><persName type="name">Mrs. G. W. Carlstead</persName><lb/> 1102 Dillon Dr.<lb/> <placeName type="place">St. Louis</placeName><lb/> <placeName type="place">Mo.</placeName></p>
+			</div>
+		</body>
+	</text>
+	<facsimile sameAs="https://fromthepage.com/iiif/21463/manifest" xml:id="iiif21463manifest">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21463/canvas/705562">
+			<label>1</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705562"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21463/canvas/705563">
+			<label>2</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705563"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21463/canvas/705564">
+			<label>3</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705564"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21463/canvas/705565">
+			<label>4</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705565"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21463/canvas/705566">
+			<label>5</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705566"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21463/canvas/705567">
+			<label>6</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705567"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21463/canvas/705568">
+			<label>7</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705568"/>
+		</surface>
+	</facsimile>
+</TEI>
