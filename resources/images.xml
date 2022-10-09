@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<facsimile sameAs="https://fromthepage.com/iiif/21461/manifest">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21461/canvas/705557">
+			<label>Page 1</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705557"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21461/canvas/705558">
+			<label>Page 2</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705558"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21461/canvas/705559">
+			<label>Page 3</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705559"/>
+		</surface>
+	</facsimile>
+</TEI>

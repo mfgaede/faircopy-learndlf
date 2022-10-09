@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<pb facs="https://fromthepage.com/image-service/705557/full/full/0/native.jpg #f000" n="Page 1" xml:id="F705557"/>
+			<div xml:id="OTP705557">
+				<fw type="pageNum">1</fw>
+				<opener/>
+				<dateline>[Right Side]<lb/> <name type="place">Fort Des Moines Iowa</name><lb/> Monday 6.15 pm.</dateline>
+				<p xml:id="OTP705557P2">[Left Side]<lb/> make it stamps. Then<lb/> back to barracks. Then<lb/> ate dinner at 1.30. Then <lb/> to infirmary at 2. Oh! me!<lb/> Oh! my! Same thing all<lb/> over again and three<lb/> shots on top of that. My<lb/> left arm is a little sore.<lb/> [But] guess I'll live. Will<lb/> [?] you again but wait<lb/> until I send you an address<lb/> tell all the gang. How are<lb/> my babies. I know I'll<lb/> miss them. I bunked with <lb/> <persName type="name">Mary Walker</persName> last night. We<lb/> had a lot of fun. We were<lb/> the only ones with a lower <lb/> birth (sic). Love to All Mother</p>
+				<p xml:id="OTP705557P3"/>
+				<signed/>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705558/full/full/0/native.jpg #f001" n="2" xml:id="F705558"/>
+			<div xml:id="OTP705558">
+				<fw type="pageNum">2</fw>
+				<p xml:id="OTP705558P0">at 9 am. Then w[ ] issued Soldiers<lb/> overcoats &amp; caps to keep us warm. Some [galoshes?]<lb/> 3 bath towels as big as sheets 3 hankerchiefs<lb/> tooth brush &amp; comb. Then went to ware house<lb/> for clothes. This is what I got.<lb/> 5 blouses 2 pr. anklets<lb/> 1 coat } 1 pr. sneakers<lb/> 1 skirt } uniform 2 pr. oxfords<lb/> 1 overcoat 2 pr. flannelette pajamas<lb/> 1 raincoat 1 corduroy robe<lb/> 2 pr. shoes 2 fatigue suits<lb/> 4 pr. cotton stockings 3 rayon jersey slips<lb/> 4 " rayon " 4 pr " " pants<lb/> 2 girdles 1 cap 1 tobaggan cap<lb/> 3 brassiers. I think this is all and I<lb/> sure could kick some one's but for having<lb/> us bring all these things. Show this list<lb/> to <persName type="name">Peggy </persName>&amp;<persName type="name"> Mildred.</persName> I didn't have to<lb/> have an alteration Perfect 16 long.<lb/> You can't write to me this week as<lb/> we are going to another co. Sat. If<lb/> you want to send [?] anything</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705559/full/full/0/native.jpg #f002" n="3" xml:id="F705559"/>
+			<div xml:id="OTP705559">
+				<fw type="pageNum">3</fw>
+				<p xml:id="OTP705559P0"><persName type="name">Ann Smith</persName><lb/> Co. 23. Reg 3<lb/> Barracks 80<lb/> <placeName type="place">Fort Des Moines Iowa</placeName></p>
+				<p xml:id="OTP705559P1"><persName type="name">Mr.</persName> and <persName type="name">Mrs. G.W. Carlstead</persName><lb/> <placeName type="place">1102 Dillon Drive<lb/> St. Louis</placeName> <lb/> <placeName>Mo</placeName>.</p>
+			</div>
+		</body>
+	</text>
+</TEI>
