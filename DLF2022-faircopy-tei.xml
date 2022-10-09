@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title type="full">
+					<title type="main">8-24-1943 WAAC</title>
+				</title>
+				<author/>
+			</titleStmt>
+			<editionStmt>
+				<edition>Edition created from new transcripts of this manuscript.</edition>
+				<respStmt xml:id="AU216679">
+					<resp>Initial upload of this work's facsimile images and metadata to FromThePage for editing</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="OU216679">
+					<resp>Administrator of the Ann Smith Letters transcription project on FromThePage</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="U31858">
+					<persName>Bilabial</persName>
+					<resp>made 5 edits between <date type="first_edit" when="2020-02-13T01:56:30Z">February 13, 2020</date> and <date type="last_edit" when="2020-02-13T02:01:50Z">February 13, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U217894">
+					<persName>mimistach</persName>
+					<resp>made 2 edits between <date type="first_edit" when="2020-07-13T15:39:38Z">July 13, 2020</date> and <date type="last_edit" when="2020-07-13T15:39:43Z">July 13, 2020</date>.</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Dynamic TEI export from FromThePage (version 21.1)</publisher>
+				<availability>
+					<p/>
+				</availability>
+				<ref>
+					<date when="2022-10-09T13:54:30+00:00">October 9, 2022</date>
+				</ref>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<collection>Ann Smith Letters</collection>
+					</msIdentifier>
+					<physDesc>
+						<p/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<listChange ordered="true">
+				<change target="#P705628" when="2020-07-13T15:39:43Z" who="U217894" xml:id="CHG10">Version 4 of page "4": Changes to page transcript.</change>
+				<change target="#P705628" when="2020-07-13T15:39:38Z" who="U217894" xml:id="CHG9">Version 3 of page "4": Changes to page transcript.</change>
+				<change target="#P705628" when="2020-02-13T02:01:50Z" who="U31858" xml:id="CHG8">Version 2 of page "4": Changes to page transcript.</change>
+				<change target="#P705628" when="2020-02-13T02:01:46Z" who="U31858" xml:id="CHG7">Version 1 of page "4": Changes to page transcript.</change>
+				<change target="#P705627" when="2020-02-13T01:59:52Z" who="U31858" xml:id="CHG6">Version 1 of page "3": Changes to page transcript.</change>
+				<change target="#P705626" when="2020-02-13T01:58:33Z" who="U31858" xml:id="CHG5">Version 1 of page "2": Changes to page transcript.</change>
+				<change target="#P705625" when="2020-02-13T01:56:30Z" who="U31858" xml:id="CHG4">Version 1 of page "1": Changes to page transcript.</change>
+				<change target="#P705628" when="2020-01-18T20:13:24Z" who="U216679" xml:id="CHG3">Version 0 of page "4": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705627" when="2020-01-18T20:13:24Z" who="U216679" xml:id="CHG2">Version 0 of page "3": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705626" when="2020-01-18T20:13:23Z" who="U216679" xml:id="CHG1">Version 0 of page "2": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705625" when="2020-01-18T20:13:22Z" who="U216679" xml:id="CHG0">Version 0 of page "1": Empty transcript -- probably initial upload of page facsimile.</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="import-1665323705077">
+		<body>
+			<pb facs="https://fromthepage.com/image-service/705625/full/full/0/native.jpg" n="1" xml:id="F705625"/>
+			<div xml:id="OTP705625">
+				<fw type="pageNum">1</fw>
+				<p xml:id="OTP705625P0">ARMY AIR BASE<lb/> HUNTER FIELD<lb/> SAVANNAH, GEORGIA</p>
+				<p xml:id="OTP705625P1">Monday Night</p>
+				<p xml:id="OTP705625P2">Dear Kids,</p>
+				<p xml:id="OTP705625P3">Returned from furlough<lb/> Aug 17. + found things in such a <lb/> mess that I have hardly had<lb/> time to think. Have worked about<lb/> night and day but can now see<lb/> over the tops at least. But I<lb/> guess it hasn't all been for <lb/> nothing, I understand I am <lb/> to get a Staff Sgt's. rating soon. <lb/> I didn't forget your birthday but <lb/> I am broke + won't get paid <lb/> until the tenth. What would<lb/> you like to have?</p>
+				<p xml:id="OTP705625P4">How is G.W. + the kids? <lb/> I was disappointed for I</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705626/full/full/0/native.jpg" n="2" xml:id="F705626"/>
+			<div xml:id="OTP705626">
+				<fw type="pageNum">2</fw>
+				<p xml:id="OTP705626P0">ARMY AIR BASE<lb/> HUNTER FIELD<lb/> SAVANNAH, GEORGIA</p>
+				<p xml:id="OTP705626P1">thought sure there would be<lb/> some pictures here for me when<lb/> I got back. I sure would like<lb/> to see the boys. They will be <lb/> so big when I do get to see<lb/> them for I am now in this <lb/> thing for the duration + 6 mos. <lb/> I moved Grandma over in the <lb/> cabins while I was home. I <lb/> went out to the plant + saw<lb/> the kids. It didn't seem like <lb/> the same place. So many new<lb/> face. I also went to<lb/> Murphysboro. Mrs. Stella + <lb/> Louis asked about all of you.</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705627/full/full/0/native.jpg" n="3" xml:id="F705627"/>
+			<div xml:id="OTP705627">
+				<fw type="pageNum">3</fw>
+				<p xml:id="OTP705627P0">ARMY AIR BASE<lb/> HUNTER FIELD<lb/> SAVANNAH, GEORGIA</p>
+				<p xml:id="OTP705627P1">Why don't you drop Grandma<lb/> a few lines? I saw Mr. Carlstead<lb/> Ida + C.J. but didn't see Mrs. <lb/> Carlstead.</p>
+				<p xml:id="OTP705627P2">I am so sleepy I can't see <lb/> so guess I better say good night<lb/> for this time.</p>
+				<p xml:id="OTP705627P3">Love to all<lb/> Mother</p>
+				<p xml:id="OTP705627P4">Write often.</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705628/full/full/0/native.jpg" n="4" xml:id="F705628"/>
+			<div xml:id="OTP705628">
+				<fw type="pageNum">4</fw>
+				<p xml:id="OTP705628P0">Sgt Ann Smith<lb/> 700158<lb/> 62nd WAC Post Hq Co.<lb/> Hunter Field, Ga.</p>
+				<p xml:id="OTP705628P1">[POSTMARK]<lb/> SAVANNAH GA <lb/> SEP <lb/> 11 <lb/> 1943</p>
+				<p xml:id="OTP705628P2">Mrs. G. W. Carlstead<lb/> 431 Alleghany<lb/> Chabot Terrace<lb/> Vallejo Calif.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

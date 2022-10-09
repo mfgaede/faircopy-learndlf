@@ -552,6 +552,11 @@ tei-musicNotation:before {
   content: "Musical Notation: ";
 }
 /* n */
+
+tei-name {
+    color: blue;
+}
+
 tei-node {
   display: none;
 }
