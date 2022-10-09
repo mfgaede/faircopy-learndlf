@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title type="full">
+					<title type="main">11-05-1943 WAAC</title>
+				</title>
+				<author/>
+			</titleStmt>
+			<editionStmt>
+				<edition>Edition created from new transcripts of this manuscript.</edition>
+				<respStmt xml:id="AU216679">
+					<resp>Initial upload of this work's facsimile images and metadata to FromThePage for editing</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="OU216679">
+					<resp>Administrator of the Ann Smith Letters transcription project on FromThePage</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="U31858">
+					<persName>Bilabial</persName>
+					<resp>made 4 edits between <date type="first_edit" when="2020-02-09T15:53:41Z">February 9, 2020</date> and <date type="last_edit" when="2020-02-09T16:03:46Z">February 9, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U217894">
+					<persName>mimistach</persName>
+					<resp>made 3 edits between <date type="first_edit" when="2020-06-19T18:08:50Z">June 19, 2020</date> and <date type="last_edit" when="2020-06-22T17:05:32Z">June 22, 2020</date>.</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Dynamic TEI export from FromThePage (version 21.1)</publisher>
+				<availability>
+					<p/>
+				</availability>
+				<ref>
+					<date when="2022-10-09T13:54:30+00:00">October 9, 2022</date>
+				</ref>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<collection>Ann Smith Letters</collection>
+					</msIdentifier>
+					<physDesc>
+						<p/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<listChange ordered="true">
+				<change target="#P705584" when="2020-06-22T17:05:32Z" who="U217894" xml:id="CHG9">Version 4 of page "2": Changes to page transcript.</change>
+				<change target="#P705584" when="2020-06-19T18:08:55Z" who="U217894" xml:id="CHG8">Version 3 of page "2": Changes to page transcript.</change>
+				<change target="#P705584" when="2020-06-19T18:08:50Z" who="U217894" xml:id="CHG7">Version 2 of page "2": Changes to page transcript.</change>
+				<change target="#P705585" when="2020-02-09T16:03:46Z" who="U31858" xml:id="CHG6">Version 1 of page "3": Changes to page transcript.</change>
+				<change target="#P705584" when="2020-02-09T16:00:32Z" who="U31858" xml:id="CHG5">Version 1 of page "2": Changes to page transcript.</change>
+				<change target="#P705583" when="2020-02-09T15:53:52Z" who="U31858" xml:id="CHG4">Version 2 of page "1": Changes to page transcript.</change>
+				<change target="#P705583" when="2020-02-09T15:53:41Z" who="U31858" xml:id="CHG3">Version 1 of page "1": Changes to page transcript.</change>
+				<change target="#P705585" when="2020-01-18T20:12:49Z" who="U216679" xml:id="CHG2">Version 0 of page "3": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705584" when="2020-01-18T20:12:49Z" who="U216679" xml:id="CHG1">Version 0 of page "2": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705583" when="2020-01-18T20:12:48Z" who="U216679" xml:id="CHG0">Version 0 of page "1": Empty transcript -- probably initial upload of page facsimile.</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="import-1665323713167">
+		<body>
+			<pb facs="https://fromthepage.com/image-service/705583/full/full/0/native.jpg iiif21468manifest#f000" n="1" xml:id="F705583"/>
+			<div xml:id="OTP705583">
+				<fw type="pageNum">1</fw>
+				<p xml:id="OTP705583P0"><del rend="Struckthrough">WAR DEPARTMENT</del><lb/> <name type="person">S/Sgt. Ann Smith</name><lb/> a-700 158-WAS Det,<lb/> <name type="place">Hunter Field. Ga</name></p>
+				<p xml:id="OTP705583P1"><name type="person">Mrs. G. W. Carlstead</name><lb/> 431 Alleghany<lb/> <name type="place">Vallejo Calif.</name></p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705584/full/full/0/native.jpg iiif21468manifest#f001" n="2" xml:id="F705584"/>
+			<div xml:id="OTP705584">
+				<fw type="pageNum">2</fw>
+				<dateline>Friday A.M.</dateline>
+				<opener>Dear Kids,</opener>
+				<p><lb/> I mailed you a letter yesterday<lb/> morning and received one from you in <lb/> the afternoon mail. I mailed <name type="person">G. W.</name> a box<lb/> a few days ago. Hope he can wear the<lb/> jacket. I'll see if I can't get (cut my finger)<lb/> him a raincoat. In the army you<lb/> call it racking it off. I try to stay in <lb/> good with Quartermaster Sulfit I get<lb/> almost anything I ask for. I will have<lb/> to say. I sure get along good here with<lb/> everyone. I guess I just got off on the <lb/> right foot. You said you had a scrap <lb/> book so I am sending you my first Cpl.<lb/> stripes. My [?bunk?] Sgt. The blue stain is<lb/> SOS (Services of Supply) the next I wore was<lb/> the wings (Air Corps) the 3/Third Air Force) thats <lb/> the one I am wearing now. I am sending</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705585/full/full/0/native.jpg iiif21468manifest#f002" n="3" xml:id="F705585"/>
+			<div xml:id="OTP705585">
+				<fw type="pageNum">3</fw>
+				<p>you a picture. I thought it was pretty<lb/> good. I had some good pcitures taken<lb/> the other day. I hope they are good. <lb/> What are the boys doing? I sure would<lb/> like to see them. I had a letter from<lb/> <unclear>[Louis?]</unclear> yesterday and he was very much<lb/> tore up. His mother died last Sunday. <lb/> Have you wrote to Grandma? If you<lb/> haven't, do so. My Cpl. called me last<lb/> night + told me he had a letter from<lb/> you + was very much thrilled. If we<lb/> get just enough letters we are happy.<lb/> Plenty to eat + good eats too. Butter<lb/> every meal in fact we are not wanting <lb/> for any thing. I got a new winter<lb/> suit. Pretty sharp. Guess I better get going<lb/> because I've got a lot to do. Write often. <lb/> Take care of the boys + tell G. W. "Hello"<lb/></p>
+				<signed>Love to all.<lb/> Mother.</signed>
+			</div>
+		</body>
+	</text>
+</TEI>
